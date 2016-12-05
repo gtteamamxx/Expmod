@@ -1,0 +1,64 @@
+1.0 :
+- Wydanie Pluginu
+
+1.1 ... 1.5 (nieudostêpnione) :
+
+-Du¿o napraw bugów :]
+
+1.6 :
+
+- Dodanie admin menu
+- Naprawa bugów z achievementami.
+- Naprawa bugów z misjami
+
+1.7(nieudostêpnione) :
+
+- Naprawa admin menu
+- 2 nowe pluginy :
+  Prefix na chacie
+  komenda " /gracze " lub " /gracz "
+
+1.8 :
+
+- Naprawa masy bugów
+- Dodano cvar i dodatkowy exp za uratowanie zakladnika
+- Zmienienie definicji #define MNOZNIK_*
+- Zmienienie systemu pobierania nazwy misji i opisu na du¿o szybszy :]
+- Dodanie nowego pluginu w Fazie BETA, dodany gdyby admin menu szwankowa³o
+(exp_dodajlvl , exp_dodajexp, exp_ustawexp, exp_ustawlvl, exp_dodajmonety, exp_ustawmonety,
+exp_ustawmisje, exp_anulujmisje, exp_anulujmisjeizablokuj, exp_odblokujmisje)
+- Komenda na chacie dla admina " /missionid" - Pokazuje w menu id ka¿dej misji
+
+1.9.5 :
+- Naprawiono kilka bugów
+- Naprawiono znowu admin menu ...
+- Dodane Wersjê MULTI LANGUAGE, niestety jest tylko polsko-angielski.
+
+1.9.6 :
+
+- Naprawiono w 99.9% Admin Menu ( item++, bugowa³o )
+- Naprawiono kilka bugów z ML_NOTFOUND
+
+1.9.7:
+
+- Zmieniono typ zapisu z savev na nvault w celu optymalizacji moda
+- Dodano kilka cvarów:
+  exp_hud_level [ 0 - wcale ; 1 - tylko ¿yj¹cemu ; 2 - tylko umar³emu ; 3 - ka¿demu ]
+  exp_mission_savetime [ czas ogólnego zapisu misji ka¿demu graczowi ]
+  exp_savetime [ czas ogólnego zapisu expa ka¿demu graczowi ]
+  exp_ach_savetime [ czas ogólnego zapisu achievementów ka¿demu graczowi ]
+  exp_knife_invisible [ niewidzialnoœæ tylko na no¿u ]
+  exp_of_players [ gracz wbija exp od X graczy na serwerze (misje, ach te¿) ]
+- Ogólna optymalizacja silnika, silnika achievementów i silnika misji
+- Naprawienie huda( hud ju¿ nigdy nie bêdzie znika³ ) [ zmieniono czêstotliwoœæ odœwie¿ania huda i huda misji ]
+- Zmniejszenie lagów na s³abszych serwerach [ oko³o 90% ]
+- Naprawienie brakuj¹cych informacji po wybraniu misji
+
+1.9.7 fixed:
+
+- Naprawiono b³¹d z nie odblokowywanymi achievementami gdy wesz³o wiêcej ni¿ "X" graczy
+
+1.9.8
+
+- Próba naprawienia b³êdu z samoistnym usuwaniem danych ( lvl, exp itp )
+- Naprawiono zmienianie siê co jakiœ czas jêzyka z ang na pol z pol na ang itd..

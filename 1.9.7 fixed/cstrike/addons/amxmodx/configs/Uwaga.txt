@@ -1,0 +1,29 @@
+Przed wgraniem wersji 1.9.7 fixed, 
+je¿eli masz wersjê mniejsz¹ ni¿ 1.9.6 czyli 1.8, 1.7 [...] To konieczny jest Reset LVl i wszystkich plikow nvault
+z expmoda, poniewaz jest wprowadzony nowy zapis 
+[nvault] Zapisy znajdziesz w : "addons/data/vault/" !
+
+Dziekuje !
+
+Dodawaj¹c achievement, zawsze dodawaj go na koñcu.
+Tak samo z misjami i itemami do sklepu.
+
+U³o¿enie plików achievementóww.amxx w pliku expmod-plugins.ini
+Odpowiada za ichwczytania.
+
+==================================================
+Uwaga!
+
+Aby zachowaæ przejrzystoœæ we wczytywaniu misji
+(tj. segregacja wg leveli)
+
+Po dodaniu misji, konieczne jest wy³¹czenie serwera.
+i musisz usun¹æ plik:
+ "expmod_mission" w folderze "addons/data/vault".
+
+
+
+Dodawaj je chronologicznie wzglêdem lvl.
+
+By Grzegorz.S i Tomasz.S z miasta Wojkowice
+

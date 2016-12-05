@@ -1,0 +1,52 @@
+expmod.amxx				; G³ówny silnik moda ( obowi¹zkowe)
+expmod_achievements.amxx		; Achievementy do moda :} ( obowi¹zkowe)
+expmod_consoleadmin.amxx		; Komendy dla admina (konsola) ( nieobowi¹zkowe)
+expmod_shop.amxx			; Sklep ( obowi¹zkowe)
+expmod_showplayerinfo.amxx		; Informacja gracza, po najechaniu na niego ( nieobowi¹zkowe)
+expmod_prefix.amxx			; Prefix w czacie np : [5 lvl] "STRIKER--McPr0 :D : Prefix :)" lub z je¿eli jest vipem :" [5 lvl] [VIP] STRIKER--McPr0 :D : Prefix :) " ( nieobowi¹zkowe)
+expmod.playerinfo.amxx			; Informacje gracza tzn misja i postêp, komend¹ "/gracze", ( nieobowi¹zkowe)
+crosshair_effect.amxx			; Plugin mojego autorstwa coœ dla coda ( nieobowi¹zkowe) - P.S : Jak ktoœ siê doczepi, ja nie wiedzia³em, ¿e taki ju¿ istnieje :)
+
+
+Plugin zosta³ stworzony przez STRIKER--McPr0 :D (tomcionek15 & grs4 & PaTrIcKx z amxx.pl)
+
+Co zosta³o zmienione :
+
+1.0 :
+- Wydanie Pluginu
+
+1.1 ... 1.5 (nieudostêpnione) :
+
+-Du¿o napraw bugów :]
+
+1.6 :
+
+- Dodanie admin menu
+- Naprawa bugów z achievementami.
+- Naprawa bugów z misjami
+
+1.7(nieudostêpnione) :
+
+- Naprawa admin menu
+- 2 nowe pluginy :
+• Prefix na chacie
+• komenda " /gracze " lub " /gracz "
+
+1.8 :
+
+- Naprawa masy bugów
+- Dodano cvar i dodatkowy exp za uratowanie zakladnika
+- Zmienienie definicji #define MNOZNIK_*
+- Zmienienie systemu pobierania nazwy misji i opisu na du¿o szybszy :]
+- Dodanie nowego pluginu w Fazie BETA, dodany gdyby admin menu szwankowa³o
+(exp_dodajlvl , exp_dodajexp, exp_ustawexp, exp_ustawlvl, exp_dodajmonety, exp_ustawmonety,
+exp_ustawmisje, exp_anulujmisje, exp_anulujmisjeizablokuj, exp_odblokujmisje)
+- Komenda na chacie dla admina " /missionid" - Pokazuje w menu id ka¿dej misji
+
+1.9 :
+
+- Ju¿ wkrótce :) Pozdrowienia dla ExTaZa?!, Nestea**** i amxx.pl. 
+
+Zapraszam na : csgarfield.pl i armia-ropczycka.pl
+
+

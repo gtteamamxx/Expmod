@@ -1,0 +1,24 @@
+Przed wgraniem wersji 1.9, 
+konieczny jest reset leveli!!!
+
+Dodawaj¹c achievement, zawsze dodawaj go na koñcu.
+Tak samo z misjami i itemami do sklepu.
+
+U³o¿enie w pliku expmod-plugins.ini
+Odpowiada za wczytania.
+
+==================================================
+Uwaga!
+
+Aby zachowaæ przejrzystoœæ we wczytywaniu misji
+(tj. segregacja wg leveli)
+
+Po dodaniu misji, konieczne jest wy³¹czenie serwera.
+Usuniêcie pliku 
+"expmod_mission.txt" w folderze "addons/amxmodx/Zapis_v2".
+
+
+
+Dodawaj je chronologicznie wzglêdem lvl.
+
+
